@@ -1,4 +1,3 @@
-import hero from "../../sanity/schemas/hero";
 import { client, urlFor } from "../lib/sanity";
 import Link from "next/link";
 import React from 'react'
